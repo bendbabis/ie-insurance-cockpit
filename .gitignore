@@ -1,0 +1,6 @@
+# Données réelles de l'équipe : ne jamais les publier dans un dépôt public
+private-data/
+*.local.json
+# Divers
+.DS_Store
+node_modules/
